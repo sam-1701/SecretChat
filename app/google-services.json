@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "420735779704",
+    "firebase_url": "https://secretchat-b2ddb.firebaseio.com",
+    "project_id": "secretchat-b2ddb",
+    "storage_bucket": "secretchat-b2ddb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420735779704:android:692ba8b357b43ac2",
+        "android_client_info": {
+          "package_name": "com.chat.saumya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420735779704-irpeukunjvpupq7620qp0oadcqm67idg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chat.saumya",
+            "certificate_hash": "7E1D9B8D1159BDB6AD248E99F0F4F86BEC1611C3"
+          }
+        },
+        {
+          "client_id": "420735779704-1oefolr326oeeudre6bjj5lnp1b5ig7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu6X4DiieVVk6d8kmaW0NhTz94Y43jmSk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420735779704-1oefolr326oeeudre6bjj5lnp1b5ig7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
